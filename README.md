@@ -33,19 +33,15 @@
 <br>
 
 ---
-
 <div align="center">
 
-### `> whoami`
+## **Gurrala Kishore Kumar**
 
-**Gurrala Kishore Kumar**
+`CSE STUDENT`  |  `MERN DEVELOPER`  |  `CYBERSECURITY`  |  `AI EXPLORER`
 
-`Computer Science Engineering Student`
-`MERN Stack Developer` • `Cybersecurity Enthusiast` • `AI Explorer`
+**Building digital solutions at the intersection of Development × Security × Intelligence.**
 
 </div>
-
-<br>
 
 <!-- ====================== ABOUT ME ====================== -->
 
@@ -352,21 +348,24 @@ to create **reliable, secure, scalable, and innovative digital solutions.**
 
 </p>
 
-### `03 // PROGRAMMING & DATA`
+### `03 // PYTHON & DATA`
 
 <p align="left">
 
 <a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" height="48"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="42" alt="Python"/>
 </a>
+
 <a href="https://numpy.org/">
-<img src="https://skillicons.dev/icons?i=numpy" height="48"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="42" alt="NumPy"/>
 </a>
+
 <a href="https://matplotlib.org/">
-<img src="https://skillicons.dev/icons?i=matplotlib" height="48"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" height="42" alt="Matplotlib"/>
 </a>
-<a href="https://www.sqlite.org/">
-<img src="https://skillicons.dev/icons?i=sqlite" height="48"/>
+
+<a href="https://pandas.pydata.org/">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="42" alt="Pandas"/>
 </a>
 
 </p>
