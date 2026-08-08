@@ -1,196 +1,270 @@
+<!-- ========================================================= -->
+
+<!--                    PREMIUM GITHUB README                   -->
+
+<!-- ========================================================= -->
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-# 👋 Hi, I'm Kishore Kumar Gurrala
-
-<a href="https://komarev.com/ghpvc/?username=kishore-630">
-  <img src="https://komarev.com/ghpvc/?username=kishore-630&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Cybersecurity+%7C+SOC+Analyst+Enthusiast;Python+%7C+Bash+Scripting+%7C+Kali+Linux;Building+Secure+%26+Innovative+Solutions" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:111827,65:312E81,100:06B6D4&height=240&section=header&text=KISHORE%20KUMAR&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=MERN%20STACK%20%7C%20CYBERSECURITY%20%7C%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
 
-### 🚀 MERN Stack Developer | 🛡️ Cybersecurity Enthusiast | 🤖 AI Explorer
-
-</div>
-
----
-
-## 🚀 About Me
-
-I am **Gurrala Kishore Kumar**, a Computer Science Engineering student focused on building a strong career in **Software Development, Cybersecurity, and Artificial Intelligence**.
-
-My approach is simple: **learn deeply, build consistently, and solve real problems.**
-
-I have hands-on experience developing web-based projects and exploring AI-driven solutions while continuously strengthening my skills across **Python, JavaScript, SQL, Web Development, MERN Stack technologies, AI, and Cybersecurity**.
-
-🔭 **Currently Exploring:**
-
-* 🛡️ Cybersecurity & Application Security
-* 💻 MERN Stack Development
-* 🤖 Artificial Intelligence & Generative AI
-* 🌐 Full-Stack Web Development
-* 🔐 SOC Analyst fundamentals
-* 🧪 Practical software and security projects
-
-🎯 **Career Goal:** To become a highly capable software professional who combines **development, security, and AI** to create reliable and innovative solutions.
-
-📌 I use GitHub to document my learning journey, showcase my projects, and continuously improve through hands-on development.
-
-### 🎨 Beyond Coding
-
-* 📸 I enjoy **content creation** and sharing my journey on Instagram.
-* 🧠 I enjoy learning new technologies by building practical projects.
-* 🔐 Cybersecurity and ethical security practices genuinely interest me.
-* 🚀 I believe consistent learning and execution are the keys to becoming a better developer.
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
-
-<p>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</a>
-<a href="https://react.dev/">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-</a>
-</p>
-
-### ⚙️ Backend & Database
-
-<p>
-<a href="https://nodejs.org/">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-</a>
-<a href="https://expressjs.com/">
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-</a>
-<a href="https://www.mongodb.com/">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</a>
-<a href="https://www.mysql.com/">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</a>
-<a href="https://www.sqlite.org/">
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-</a>
-</p>
-
-### 🐍 Programming & Data
-
-<p>
-<a href="https://www.python.org/">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</a>
-<a href="https://numpy.org/">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-</a>
-<a href="https://matplotlib.org/">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-</a>
-</p>
-
-### 🛡️ Cybersecurity & Tools
-
-<p>
-<a href="https://www.kali.org/">
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-</a>
-<a href="https://www.gnu.org/software/bash/">
-<img src="https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-</a>
-<a href="https://git-scm.com/">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</a>
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://code.visualstudio.com/">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-</a>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kishore-630&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishore-630&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+<img src="https://komarev.com/ghpvc/?username=kishore-630&label=PROFILE%20VIEWS&color=06B6D4&style=for-the-badge" alt="Profile Views"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore-630&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=MERN+STACK+DEVELOPER;CYBERSECURITY+%7C+SOC+ANALYST+ENTHUSIAST;PYTHON+%7C+BASH+%7C+KALI+LINUX;BUILDING+SECURE+%26+SCALABLE+APPLICATIONS;LEARN+%E2%80%A2+BUILD+%E2%80%A2+SECURE+%E2%80%A2+INNOVATE" alt="Typing SVG"/>
+
+<br>
+
+<a href="https://github.com/kishore-630">
+<img src="https://img.shields.io/badge/GitHub-Profile-0B0F19?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/kishore-kumar-gurrala-b619b129b">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://kishore-kumar-gurrala-txcv51n.gamma.site/">
+<img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 </div>
 
----
+<br>
 
-## 🏆 GitHub Trophies
+---
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kishore-630&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies"/>
+### `> whoami`
+
+**Gurrala Kishore Kumar**
+
+`Computer Science Engineering Student`
+`MERN Stack Developer` • `Cybersecurity Enthusiast` • `AI Explorer`
 
 </div>
 
+<br>
+
+## ⚡ About Me
+
+> **I don't just learn technologies — I build with them.**
+
+I am **Gurrala Kishore Kumar**, a Computer Science Engineering student passionate about **Full-Stack Development, Cybersecurity, and Artificial Intelligence**.
+
+My goal is to combine **software engineering + security + AI** to create applications that are not only functional, but also **secure, scalable, and user-focused**.
+
+I enjoy turning ideas into practical projects, exploring new technologies, and continuously improving through hands-on development.
+
+### 🧠 Current Focus
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   🌐  MERN STACK DEVELOPMENT                       │
+│   🛡️  CYBERSECURITY & SOC FUNDAMENTALS            │
+│   🐍  PYTHON & AUTOMATION                          │
+│   💻  BASH SCRIPTING & KALI LINUX                 │
+│   🤖  ARTIFICIAL INTELLIGENCE                     │
+│   🔐  APPLICATION SECURITY                         │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+### 🎯 Career Vision
+
+**Become a strong software professional capable of building modern applications while understanding how to secure them.**
+
 ---
 
-## 📈 My GitHub Activity
+## 🧩 Technical Arsenal
+
+### `01 // FRONTEND`
+
+<p align="left">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" height="48"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" height="48"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=javascript" height="48"/>
+</a>
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" height="48"/>
+</a>
+
+</p>
+
+### `02 // BACKEND & DATABASE`
+
+<p align="left">
+
+<a href="https://nodejs.org/">
+<img src="https://skillicons.dev/icons?i=nodejs" height="48"/>
+</a>
+<a href="https://expressjs.com/">
+<img src="https://skillicons.dev/icons?i=express" height="48"/>
+</a>
+<a href="https://www.mongodb.com/">
+<img src="https://skillicons.dev/icons?i=mongodb" height="48"/>
+</a>
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" height="48"/>
+</a>
+
+</p>
+
+### `03 // PROGRAMMING & DATA`
+
+<p align="left">
+
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" height="48"/>
+</a>
+<a href="https://numpy.org/">
+<img src="https://skillicons.dev/icons?i=numpy" height="48"/>
+</a>
+<a href="https://matplotlib.org/">
+<img src="https://skillicons.dev/icons?i=matplotlib" height="48"/>
+</a>
+<a href="https://www.sqlite.org/">
+<img src="https://skillicons.dev/icons?i=sqlite" height="48"/>
+</a>
+
+</p>
+
+### `04 // CYBERSECURITY & SYSTEMS`
+
+<p align="left">
+
+<a href="https://www.kali.org/">
+<img src="https://skillicons.dev/icons?i=kali" height="48"/>
+</a>
+<a href="https://www.gnu.org/software/bash/">
+<img src="https://skillicons.dev/icons?i=bash" height="48"/>
+</a>
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" height="48"/>
+</a>
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
+</a>
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" height="48"/>
+</a>
+
+</p>
+
+---
+
+## 🛡️ Cybersecurity Mindset
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishore-630&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:172554,100:0E7490&height=110&text=DEFEND%20%E2%80%A2%20DETECT%20%E2%80%A2%20ANALYZE%20%E2%80%A2%20SECURE&fontSize=22&fontColor=67E8F9&animation=fadeIn" width="90%"/>
+
+</div>
+
+<br>
+
+My cybersecurity interests include:
+
+`SOC Fundamentals` • `Network Security` • `Linux` • `Bash` • `Kali Linux` • `Application Security` • `Security Awareness`
+
+I am continuously building my understanding of how systems work, how vulnerabilities occur, and how secure applications can be designed.
+
+---
+
+## 🚀 What I'm Building
+
+<div align="center">
+
+|     🌐 Full-Stack     |     🛡️ Security     |         🤖 AI         |
+| :-------------------: | :------------------: | :-------------------: |
+|   MERN Applications   |   Security Projects  |     AI Experiments    |
+| Responsive Interfaces |     Linux & Bash     |     Generative AI     |
+|       REST APIs       |     SOC Concepts     | Intelligent Solutions |
+|    Database Systems   | Application Security |       Automation      |
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 📊 GitHub Intelligence
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kishore-630&show_icons=true&hide_border=true&bg_color=0B1020&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&count_private=true" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishore-630&hide_border=true&background=0B1020&ring=22D3EE&fire=EC4899&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=64748B" height="180"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore-630&layout=compact&hide_border=true&bg_color=0B1020&title_color=22D3EE&text_color=CBD5E1&langs_count=8" height="180"/>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kishore-630&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="95%"/>
+
+</div>
+
+---
+
+## 📈 Contribution Matrix
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishore-630&bg_color=050816&color=22D3EE&line=7C3AED&point=EC4899&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/kishore-kumar-gurrala-b619b129b">
-<img src="https://img.shields.io/badge/LinkedIn-Kishore%20Kumar%20Gurrala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/kishor_e_rocky/">
-<img src="https://img.shields.io/badge/Instagram-@kishor__e__rocky-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://kishore-kumar-gurrala-txcv51n.gamma.site/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://github.com/kishore-630">
-<img src="https://img.shields.io/badge/GitHub-kishore--630-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### 💡 "Learn. Build. Secure. Innovate."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:7C3AED,70:EC4899,100:050816&height=140&section=footer&animation=fadeIn" width="100%"/>
 
-**Thanks for visiting my profile! 🚀**
+### `BUILD • BREAK • LEARN • SECURE • REPEAT`
 
-⭐ Feel free to explore my repositories and follow my journey as I grow as a **MERN Stack Developer & Cybersecurity Enthusiast**.
+**Thanks for visiting my digital workspace.**
+
+*Always learning. Always building. Always improving.*
 
 </div>
+<!-- ========================================================= -->
+<!--                       END README                           -->
+<!-- ========================================================= -->
