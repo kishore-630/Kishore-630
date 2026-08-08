@@ -47,30 +47,264 @@
 
 <br>
 
-## ⚡ About Me
+<!-- ====================== ABOUT ME ====================== -->
 
-> **I don't just learn technologies — I build with them.**
+<div align="center">
 
-I am **Gurrala Kishore Kumar**, a Computer Science Engineering student passionate about **Full-Stack Development, Cybersecurity, and Artificial Intelligence**.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:111827,100:312E81&height=90&text=ABOUT%20ME&fontSize=30&fontColor=67E8F9&animation=fadeIn&fontAlignY=55" width="100%"/>
 
-My goal is to combine **software engineering + security + AI** to create applications that are not only functional, but also **secure, scalable, and user-focused**.
+<br>
 
-I enjoy turning ideas into practical projects, exploring new technologies, and continuously improving through hands-on development.
+### `KISHORE // DEVELOPER PROFILE`
 
-### 🧠 Current Focus
+**Building applications. Exploring security. Engineering with purpose.**
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+## 👨‍💻 Who I Am
+
+I'm **Gurrala Kishore Kumar**, a Computer Science Engineering student passionate about creating **modern software, secure applications, and intelligent solutions**.
+
+My development journey sits at the intersection of:
+
+**🌐 Full-Stack Development**
+Building responsive and practical web applications with modern technologies.
+
+**🛡️ Cybersecurity**
+Exploring security fundamentals, Linux environments, Bash scripting, and SOC concepts.
+
+**🤖 Artificial Intelligence**
+Experimenting with AI and Generative AI to understand how intelligent systems can improve software.
+
+I believe in a simple engineering mindset:
+
+> **Learn deeply → Build practically → Secure intelligently → Keep improving.**
+
+</td>
+
+<td width="45%" valign="top">
+
+## ⚡ Developer Identity
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   🌐  MERN STACK DEVELOPMENT                       │
-│   🛡️  CYBERSECURITY & SOC FUNDAMENTALS            │
-│   🐍  PYTHON & AUTOMATION                          │
-│   💻  BASH SCRIPTING & KALI LINUX                 │
-│   🤖  ARTIFICIAL INTELLIGENCE                     │
-│   🔐  APPLICATION SECURITY                         │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+╭────────────────────────────╮
+│                            │
+│  NAME                      │
+│  └─ Kishore Kumar          │
+│                            │
+│  DOMAIN                    │
+│  ├─ Full-Stack Development │
+│  ├─ Cybersecurity          │
+│  └─ Artificial Intelligence│
+│                            │
+│  ROLE                      │
+│  └─ MERN Stack Developer   │
+│                            │
+│  MINDSET                   │
+│  └─ Build • Secure • Grow  │
+│                            │
+╰────────────────────────────╯
 ```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🎯 CURRENT FOCUS
+
+`01` **MERN STACK**  • 
+`02` **CYBERSECURITY**  • 
+`03` **SOC ANALYST**  • 
+`04` **AI / GENAI**
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🌐
+
+**MERN STACK**
+
+Building modern full-stack applications with:
+
+`MongoDB`
+`Express.js`
+`React`
+`Node.js`
+
+**Focus →**
+APIs • UI • Databases • Scalable Applications
+
+</td>
+
+<td align="center" width="25%">
+
+### 🛡️
+
+**CYBERSECURITY**
+
+Developing practical security knowledge through:
+
+`Kali Linux`
+`Bash Scripting`
+`Linux`
+`Network Security`
+
+**Focus →**
+Defense • Analysis • Security Awareness
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔎
+
+**SOC ANALYST**
+
+Building an understanding of:
+
+`Threat Detection`
+`Security Monitoring`
+`Incident Analysis`
+`Log Investigation`
+
+**Focus →**
+Detect • Analyze • Respond
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AI / GENAI**
+
+Exploring:
+
+`Python`
+`Generative AI`
+`AI Tools`
+`Automation`
+
+**Focus →**
+Intelligent • Practical • Innovative
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🧭 My Engineering Direction
+
+<div align="center">
+
+```text
+                 ┌──────────────────────┐
+                 │     SOFTWARE         │
+                 │     ENGINEERING      │
+                 └──────────┬───────────┘
+                            │
+             ┌──────────────┼──────────────┐
+             ▼              ▼              ▼
+        ┌─────────┐    ┌──────────┐    ┌─────────┐
+        │   WEB   │    │ SECURITY │    │   AI    │
+        │  MERN   │    │   SOC    │    │ GENAI   │
+        └────┬────┘    └────┬─────┘    └────┬────┘
+             │              │               │
+             └──────────────┼───────────────┘
+                            ▼
+                 ┌──────────────────────┐
+                 │  SECURE + SMART +    │
+                 │  SCALABLE SOLUTIONS  │
+                 └──────────────────────┘
+```
+
+</div>
+
+---
+
+## 🔥 What Drives Me
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 🧠 LEARN
+
+Understand the technology beyond just using it.
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚙️ BUILD
+
+Turn concepts into practical projects and working solutions.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔐 SECURE
+
+Think about reliability, security, and responsible engineering.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🚀 Career Vision
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,35:0E7490,70:312E81,100:7C3AED&height=120&text=BUILD%20%7C%20SECURE%20%7C%20INNOVATE&fontSize=28&fontColor=FFFFFF&animation=fadeIn" width="95%"/>
+
+<br><br>
+
+I'm working toward becoming a **strong software professional** who can combine
+
+### `FULL-STACK DEVELOPMENT` + `CYBERSECURITY` + `AI`
+
+to create **reliable, secure, scalable, and innovative digital solutions.**
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 CURRENTLY LEARNING
+
+<img src="https://img.shields.io/badge/MERN%20STACK-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CYBERSECURITY-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOC%20ANALYST-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GENERATIVE%20AI-0EA5E9?style=for-the-badge"/>
+
+</div>
+
+<!-- ==================== END ABOUT ME ==================== -->
+
 
 ### 🎯 Career Vision
 
