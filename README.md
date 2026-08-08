@@ -428,19 +428,67 @@ I am continuously building my understanding of how systems work, how vulnerabili
 
 ---
 
-## 📊 GitHub Intelligence
+<!-- ========================================================= -->
+
+<!--                    GITHUB INTELLIGENCE                    -->
+
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kishore-630&show_icons=true&hide_border=true&bg_color=0B1020&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&count_private=true" height="180"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,45:111827,100:312E81&height=90&text=GITHUB%20INTELLIGENCE&fontSize=27&fontColor=67E8F9&animation=fadeIn" width="100%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishore-630&hide_border=true&background=0B1020&ring=22D3EE&fire=EC4899&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=64748B" height="180"/>
+<br>
 
-<br><br>
+### `SYSTEM STATUS // OPEN SOURCE ACTIVITY`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore-630&layout=compact&hide_border=true&bg_color=0B1020&title_color=22D3EE&text_color=CBD5E1&langs_count=8" height="180"/>
+<img src="https://img.shields.io/badge/CODE-ACTIVE-22D3EE?style=flat-square"/>
+<img src="https://img.shields.io/badge/BUILDING-CONTINUOUSLY-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/LEARNING-ALWAYS-EC4899?style=flat-square"/>
 
 </div>
+
+<br>
+
+<!-- ===================== STATS ===================== -->
+
+<div align="center">
+
+<a href="https://github.com/kishore-630">
+<img src="https://github-readme-stats.vercel.app/api?username=kishore-630&show_icons=true&hide_border=true&bg_color=0B1020&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&include_all_commits=true&count_private=true" width="48%"/>
+</a>
+
+<a href="https://github.com/kishore-630">
+<img src="https://streak-stats.vercel.app/?user=kishore-630&hide_border=true&background=0B1020&ring=22D3EE&fire=EC4899&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=64748B" width="48%"/>
+</a>
+
+</div>
+
+<br>
+
+<!-- ================= TOP LANGUAGES ================= -->
+
+<div align="center">
+
+<a href="https://github.com/kishore-630">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore-630&layout=compact&hide_border=true&bg_color=0B1020&title_color=22D3EE&text_color=CBD5E1&langs_count=8" width="48%"/>
+</a>
+
+</div>
+
+<br>
+
+---
+
+## 📡 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishore-630&bg_color=050816&color=22D3EE&line=7C3AED&point=EC4899&area=true&hide_border=true&custom_title=Kishore%20Kumar%20%E2%80%94%20Contribution%20Activity" width="100%"/>
+
+</div>
+
+<br>
 
 ---
 
@@ -448,41 +496,7 @@ I am continuously building my understanding of how systems work, how vulnerabili
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kishore-630&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="95%"/>
-
-</div>
-
----
-
-## 📈 Contribution Matrix
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishore-630&bg_color=050816&color=22D3EE&line=7C3AED&point=EC4899&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/kishore-kumar-gurrala-b619b129b">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/kishor_e_rocky/">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://kishore-kumar-gurrala-txcv51n.gamma.site/">
-<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/kishore-630">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=kishore-630&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="95%"/>
 
 </div>
 
@@ -490,9 +504,59 @@ I am continuously building my understanding of how systems work, how vulnerabili
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:7C3AED,70:EC4899,100:050816&height=140&section=footer&animation=fadeIn" width="100%"/>
+`CONSISTENCY`  •  `OPEN SOURCE`  •  `LEARNING`  •  `BUILDING`
 
-### `BUILD • BREAK • LEARN • SECURE • REPEAT`
+</div>
+
+<br>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kishore-kumar-gurrala-b619b129b">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/kishor_e_rocky/">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://kishore-kumar-gurrala-txcv51n.gamma.site/">
+<img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kishore-630">
+<img src="https://img.shields.io/badge/GitHub-Explore-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:7C3AED,70:EC4899,100:050816&height=150&section=footer&animation=fadeIn" width="100%"/>
+
+### `BUILD • SECURE • INNOVATE`
+
+**Turning curiosity into code and ideas into real-world solutions.**
+
+<br>
+
+<sub>© Kishore Kumar Gurrala • Built with curiosity, consistency & code.</sub>
+
+</div>
+
+<!-- ========================================================= -->
+
+<!--                         END                               -->
+
+<!-- ========================================================= -->
 
 **Thanks for visiting my digital workspace.**
 
