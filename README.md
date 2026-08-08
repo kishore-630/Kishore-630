@@ -494,23 +494,25 @@ I am continuously building my understanding of how systems work, how vulnerabili
 
 ## 🏆 Achievements
 
+<!-- ===================== ACHIEVEMENT PANEL ===================== -->
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kishore-630&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="95%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,45:111827,100:312E81&height=90&text=DEVELOPER%20ACTIVITY&fontSize=27&fontColor=67E8F9&animation=fadeIn" width="100%"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=kishore-630&show_icons=true&hide_border=true&bg_color=0B1020&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&include_all_commits=true&count_private=true" width="48%"/>
+
+<img src="https://streak-stats.vercel.app/?user=kishore-630&hide_border=true&background=0B1020&ring=22D3EE&fire=EC4899&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=64748B" width="48%"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore-630&layout=compact&hide_border=true&bg_color=0B1020&title_color=22D3EE&text_color=CBD5E1&langs_count=8" width="48%"/>
 
 </div>
 
 <br>
-
-<div align="center">
-
-`CONSISTENCY`  •  `OPEN SOURCE`  •  `LEARNING`  •  `BUILDING`
-
-</div>
-
-<br>
-
----
 
 ## 🌐 Connect
 
