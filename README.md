@@ -205,37 +205,6 @@ Intelligent • Practical • Innovative
 </tr>
 </table>
 
----
-
-## 🧭 My Engineering Direction
-
-<div align="center">
-
-```text
-                 ┌──────────────────────┐
-                 │     SOFTWARE         │
-                 │     ENGINEERING      │
-                 └──────────┬───────────┘
-                            │
-             ┌──────────────┼──────────────┐
-             ▼              ▼              ▼
-        ┌─────────┐    ┌──────────┐    ┌─────────┐
-        │   WEB   │    │ SECURITY │    │   AI    │
-        │  MERN   │    │   SOC    │    │ GENAI   │
-        └────┬────┘    └────┬─────┘    └────┬────┘
-             │              │               │
-             └──────────────┼───────────────┘
-                            ▼
-                 ┌──────────────────────┐
-                 │  SECURE + SMART +    │
-                 │  SCALABLE SOLUTIONS  │
-                 └──────────────────────┘
-```
-
-</div>
-
----
-
 ## 🔥 What Drives Me
 
 <table>
