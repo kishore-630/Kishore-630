@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/kishore-kumar-gurrala-b619b129b">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://kishore-kumar-gurrala-txcv51n.gamma.site/">
+<a href="https://personal-portfolio-wheat-delta-82.vercel.app/)">
 <img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
